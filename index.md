@@ -1,5 +1,5 @@
 ## Yucheng Hang 杭煜程
-![照片](/Yucheng Hang.JPG)  
+![Image](/Yucheng Hang.JPG)  
 Master  
 Shenzhen International Graduate school & Department of Electronic Engineering  
 Tsinghua University, Shenzhen, China  
