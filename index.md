@@ -1,8 +1,9 @@
 ## Welcome to Yucheng Hang's Homepage
 
 ### Yucheng Hang 杭煜程
-Master
-Shenzhen International Graduate school & Department of Electronic Engineering, Tsinghua University, Shenzhen, China
+Master  
+Shenzhen International Graduate school & Department of Electronic Engineering  
+Tsinghua University, Shenzhen, China  
 Email:hangyc20@mails.tsinghua.edu.cn
 
 ### Biography
