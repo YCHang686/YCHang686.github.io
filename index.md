@@ -12,9 +12,11 @@ My research interest includes deep learning and its applications to computer vis
 
 ### Education
 - M. E. Degree in Electronic Engineering  
-  Shenzhen International Graduate school & Department of Electronic Engineering, Tsinghua University, Shenzhen, China, Sep. 2020 ~ Present  
+  Shenzhen International Graduate school & Department of Electronic Engineering  
+  Tsinghua University, Shenzhen, China, Sep. 2020 ~ Present    
 - B. S. Degree in Communication Engineering  
-  School of Computer Science and Engineering, Northeastern University, Shenyang, China, Sep. 2016 ~ Jul. 2020  
+  School of Computer Science and Engineering  
+  Northeastern University, Shenyang, China, Sep. 2016 ~ Jul. 2020  
 
 ### Research Experiences
 - VIP Lab, Tsinghua University, Shenzhen, China  
