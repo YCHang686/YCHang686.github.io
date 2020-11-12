@@ -30,7 +30,7 @@ My research interest includes deep learning and its applications to computer vis
 ### Publications
 1. **Attention Cube Network for Image Restoration**  
    Yucheng Hang, Qingmin Liao, Wenming Yang<sup>*</sup>, Yupeng Chen, Jie Zhou  
-   ACM Multimedia (**ACM MM**), Seattle, USA, Oct. 2020.
+   ACM Multimedia (**ACM MM**), Seattle, USA, Oct. 2020. （**CCF A**）
 
 ### Awards
 - Excellent Graduate of Liaoning, China, 2020  
