@@ -32,7 +32,7 @@ My research interest includes deep learning and its applications to computer vis
    Yucheng Hang, Qingmin Liao, Wenming Yang<sup>*</sup>, Yupeng Chen, Jie Zhou  
    ACM Multimedia (**ACM MM**), Seattle, USA, Oct. 2020. （**CCF A**）
 
-### Awards
+### Selected Awards
 - Excellent Graduate of Liaoning, China, 2020  
 - National Scholarship (Ministry of Education, China, Top 2%), 2019  
 - National Scholarship (Ministry of Education, China, Top 2%), 2018  
