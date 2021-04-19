@@ -19,6 +19,9 @@ My research interest includes deep learning and its applications to computer vis
   Northeastern University, Shenyang, China, Sep. 2016 ~ Jul. 2020  
 
 ### Research Experiences
+- Machine Learning Department, Dji, Shenzhen, China
+  Research Intern, Apr. 2021 ~ Now
+
 - VIP Lab, Tsinghua University, Shenzhen, China  
   Master Student, Feb. 2020 ~ Now  
   Supervisor: Prof. Wenming Yang  
